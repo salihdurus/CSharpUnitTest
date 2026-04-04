@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JobApplicantLibrary/JobApplicantLibrary.csproj" />
+  <Project Path="JobApplicationLibrary.UnitTest/JobApplicationLibrary.UnitTest.csproj" />
+</Solution>
